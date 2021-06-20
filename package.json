@@ -1,0 +1,23 @@
+{
+  "name": "js-training",
+  "version": "0.0.1",
+  "description": "exercises in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maxdobeck/js-training.git"
+  },
+  "keywords": [
+    "javascript",
+    "exercises"
+  ],
+  "author": "max dobeck",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/maxdobeck/js-training/issues"
+  },
+  "homepage": "https://github.com/maxdobeck/js-training#readme"
+}
