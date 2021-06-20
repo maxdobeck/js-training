@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/maxdobeck/js-training/issues"
   },
-  "homepage": "https://github.com/maxdobeck/js-training#readme"
+  "homepage": "https://github.com/maxdobeck/js-training#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "node-fetch": "^2.6.1",
+    "prompt": "^1.1.0"
+  }
 }
